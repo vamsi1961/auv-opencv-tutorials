@@ -1,0 +1,3 @@
+/home/kishore/Downloads/opencv-tutorial/CMakeFiles/rebuild_cache.dir
+/home/kishore/Downloads/opencv-tutorial/CMakeFiles/word.dir
+/home/kishore/Downloads/opencv-tutorial/CMakeFiles/edit_cache.dir
